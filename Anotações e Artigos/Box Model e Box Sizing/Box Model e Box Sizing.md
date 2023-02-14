@@ -2,7 +2,7 @@
 
 ## Box Model e Box Sizing
 
-Todos os elementos/tags no html sõa exibidos de forma retangular ou quadrados, se assim forem definidas suas propriedades. Eles implementam o box model (modelo de caixa) nada mais é que o total de espaço que o elemento ocupa na tela, e ter noções das variáveis que alteram esse total de espaço é importante.
+Todos os elementos/tags no html são exibidos de forma retangular ou quadrados, se assim forem definidas suas propriedades. Eles implementam o box model (modelo de caixa) nada mais é que o total de espaço que o elemento ocupa na tela, e ter noções das variáveis que alteram esse total de espaço é importante.
 
 _Margin_ , _border_ e _padding_.
 Usando o DevTools:
